@@ -1,0 +1,1 @@
+SELECT Count(InvoiceId), BillingCountry From Invoice group by BillingCountry
